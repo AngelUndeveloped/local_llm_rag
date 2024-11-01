@@ -167,3 +167,9 @@ models
 
 # Api keys in .env
 .env
+local_llm_rag_env
+\local_llm_rag_env
+/local_llm_rag_env
+.ipynb_checkpoints
+/.ipynb_checkpoints
+\.ipynb_checkpoints
